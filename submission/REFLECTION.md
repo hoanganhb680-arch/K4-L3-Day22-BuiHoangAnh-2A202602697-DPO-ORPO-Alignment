@@ -29,8 +29,8 @@
 
 | Chỉ số | Giá trị |
 |---|---:|
-| Thời gian huấn luyện NB3 | không ghi trong dpo_metrics.json (ước tính ~40–60 phút) |
-| VRAM cao nhất | không ghi (chạy vừa T4 16 GB) |
+| Thời gian huấn luyện NB3 |60 phút|
+| VRAM cao nhất | T4 16 GB|
 | Reward gap cuối trên tập huấn luyện (chosen − rejected) | +0,102 (chosen 0,429 − rejected 0,327) |
 | Độ chính xác reward trên held-out | 0,66 |
 | Margin trên held-out | +0,090 |
